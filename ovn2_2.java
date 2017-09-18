@@ -1,5 +1,10 @@
 import javax.swing.*;
 
+/* Uppgift 2.2
+David Andersson
+18/9 2017
+*/
+
 public class ovn2_2{
 	public static void main(String[] args){
 		
